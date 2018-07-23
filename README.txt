@@ -1,3 +1,8 @@
+# Реверс инжениринг в Enterprise Architect (EA) в "Лаборатории Касперского"
+https://www.youtube.com/watch?v=pCHQZwvgxNM
+
+![Image alt](https://roem.ru/wp-content/uploads/2018/04/kitajkasperskayachubajs.jpg)
+
 For the latest information about Hadoop, please visit our website at:
 
    http://hadoop.apache.org/core/
