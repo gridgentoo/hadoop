@@ -17,6 +17,10 @@ Apache Hive — система управления базами данных н
 
 ![Image alt](http://www.fbhive.com/wp-content/uploads/2017/08/cropped-hive-logo.png)
 
+![Image alt](https://www.whizlabs.com/wp-content/uploads/2018/01/Apache-hive-Architecture.png)
+
+![Image alt](https://docops.ca.com/ca-test-data-manager/4-3/en/files/427018275/427018277/1/1492688882294/Hadoop_Hive_Masking.png)
+
 Архитектура [Hive] & Реверс инжениринг : : Hive
 
 https://drive.google.com/drive/folders/1c7kxASfGaeTu-7Eal-H5mnFjsjsEOt03
