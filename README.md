@@ -5,6 +5,8 @@ Apache Hadoop 3.0, свободной платформы для организа
 
 ![Image alt](https://azurecomcdn.azureedge.net/mediahandler/files/videofiles/thumbnails/36/introduction-to-hdinsight-service.jpg)
 
+![Image alt](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/hadoop-hdfs-architecture-1.jpg)
+
 Архитектура [Hadoop3] & Реверс инжениринг : : Hadoop 
 
 https://drive.google.com/drive/folders/1VtuAmfDgOlpt_BKNlpGn8EH1j08MXE9S
