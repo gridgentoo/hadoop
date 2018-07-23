@@ -1,6 +1,8 @@
 # Реверс инжениринг в Enterprise Architect (EA) в "Лаборатории Касперского"
 https://www.youtube.com/watch?v=pCHQZwvgxNM
 
+![Image alt](https://roem.ru/wp-content/uploads/2018/04/kitajkasperskayachubajs.jpg)
+
 # Архитектура [Hadoop3] Реверс инжениринг : : Hadoop был создан корпорацией в Yahoo
 Apache Hadoop 3.0, свободной платформы для организации распределённой обработки больших объёмов данных с использованием парадигмы map/reduce, при которой задача делится на множество более мелких обособленных фрагментов, каждый из которых может быть запущен на отдельном узле кластера. Хранилище на базе Hadoop может охватывать тысячи узлов и содержать эксабайты данных.
 
@@ -22,8 +24,6 @@ Apache Hive — система управления базами данных н
 
 https://drive.google.com/drive/folders/1c7kxASfGaeTu-7Eal-H5mnFjsjsEOt03
 
-
-![Image alt](https://roem.ru/wp-content/uploads/2018/04/kitajkasperskayachubajs.jpg)
 
 For the latest information about Hadoop, please visit our website at:
 
