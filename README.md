@@ -1,6 +1,28 @@
 # Реверс инжениринг в Enterprise Architect (EA) в "Лаборатории Касперского"
 https://www.youtube.com/watch?v=pCHQZwvgxNM
 
+# Архитектура [Hadoop3] Реверс инжениринг : : Hadoop был создан корпорацией в Yahoo
+Apache Hadoop 3.0, свободной платформы для организации распределённой обработки больших объёмов данных с использованием парадигмы map/reduce, при которой задача делится на множество более мелких обособленных фрагментов, каждый из которых может быть запущен на отдельном узле кластера. Хранилище на базе Hadoop может охватывать тысячи узлов и содержать эксабайты данных.
+
+В состав Hadoop входит реализация распределенной файловой системы Hadoop Distributed Filesystem (HDFS), автоматически обеспечивающей резервирование данных и оптимизированной для работы MapReduce-приложений. Для упрощения доступа к данным в Hadoop хранилище разработана БД HBase и SQL-подобный язык Pig, который является своего рода SQL для MapReduce, запросы которого могут быть распараллелены и обработаны несколькими Hadoop-платформами. Проект оценивается как полностью стабильный и готовый для промышленной эксплуатции. Hadoop активно используется в крупных промышленных проектах, предоставляя возможности, аналогичные платформе Google Bigtable/GFS/MapReduce, при этом компания Google официально делегировала Hadoop и другим проектам Apache право использования технологий, на которые распространяются патенты, связанные с методом MapReduce.
+
+![Image alt](https://netmag.pk/wp-content/uploads/2017/09/article-1378778-0BB6E70B00000578-588_634x392.jpg)
+
+Архитектура [Hadoop3] & Реверс инжениринг : : Hadoop 
+
+https://drive.google.com/drive/folders/1VtuAmfDgOlpt_BKNlpGn8EH1j08MXE9S
+
+# Архитектура [Hive] Реверс инжениринг : : Hive был создан корпорацией Facebook 
+Работа с данными в hadoop используя SQL-подобный язык запросов, Apache Hive поддерживает язык запросов Hive Query Language, который основан на языке SQL, но не имеет полной поддержки стандарта SQL-92.
+Apache Hive — система управления базами данных на основе платформы Hadoop. Позволяет выполнять запросы, агрегировать и анализировать данные, хранящиеся в Hadoop.
+
+![Image alt](http://www.fbhive.com/wp-content/uploads/2017/08/cropped-hive-logo.png)
+
+Архитектура [Hive] & Реверс инжениринг : : Hive
+
+https://drive.google.com/drive/folders/1c7kxASfGaeTu-7Eal-H5mnFjsjsEOt03
+
+
 ![Image alt](https://roem.ru/wp-content/uploads/2018/04/kitajkasperskayachubajs.jpg)
 
 For the latest information about Hadoop, please visit our website at:
